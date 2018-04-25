@@ -1,0 +1,41 @@
+table, td, th {
+  border: 1px solid #BDC3C7;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #BDC3C7;
+}
+tr {
+  height: 40px;
+}
+td {
+  width: 40px;
+}
+
+.buttons {
+  background-color: greey; /* Green */
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 200px;
+  border-radius: 8px;
+}
+span{
+  font-weight: bold;
+  font-size: large;
+}
+.message{
+   color: red;
+}
+input{
+  width: 150px;
+  font-size: 14px;
+}
+.input_dimenzion {
+  width: 30px;
+  text-align: center;
+}
